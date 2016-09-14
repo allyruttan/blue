@@ -1,0 +1,8 @@
+Date,Species,Count
+2016-07-08,Salmon,3
+2016-07-08,Bass,4
+2016-07-09,Salmon,3
+2016-07-09,Pike,1
+2016-07-09,Trout,2
+2016-07-10,Salmon,3
+
